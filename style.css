@@ -1,0 +1,51 @@
+.success,
+.error {
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+
+.success {
+    background: green;
+}
+
+.error {
+    background: red;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+.container {
+    border: 1px solid white;
+    background-color: rgb(133, 27, 165);
+}
+
+#book-form {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.top {
+    text-align: center;
+    padding: 1rem;
+}
+
+.font {
+    font-size: 18px;
+    padding: 1rem;
+}
+
+.u-full-width {
+    padding: 2rem;
+}
+
+.button {
+    width: 100%;
+}
+
+#book-list {
+    background: rgb(52, 87, 101);
+}
