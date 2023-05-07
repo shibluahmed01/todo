@@ -20,7 +20,8 @@ body {
 
 .container {
     border: 1px solid white;
-    background-color: rgb(133, 27, 165);
+    background-color: rgb(81, 49, 91);
+    margin-top: 15rem;
 }
 
 #book-form {
@@ -47,5 +48,5 @@ body {
 }
 
 #book-list {
-    background: rgb(95, 177, 210);
+    /* background: rgb(95, 177, 210); */
 }
